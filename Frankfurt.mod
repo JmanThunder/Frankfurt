@@ -1,4 +1,4 @@
-name = "Frankfurt"
+name = "(WIP)Frankfurt"
 path = "mod/Frankfurt"
 user_dir = "Frankfurt"
 replace_path = "history/provinces"
