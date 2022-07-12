@@ -1,0 +1,6 @@
+name = "Frankfurt"
+path = "mod/Frankfurt"
+user_dir = "Frankfurt"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"
