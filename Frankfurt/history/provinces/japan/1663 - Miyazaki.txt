@@ -1,6 +1,8 @@
-owner = SAT
-controller = SAT
+owner = FRA
+controller = FRA
 add_core = SAT
 add_core = TKG
+colonial = 2
 trade_goods = tobacco
 life_rating = 35
+
