@@ -1,6 +1,6 @@
-owner = HES
-controller = HES
-add_core = HES
+owner = FRA
+controller = FRA
+add_core = FRA
 add_core = GER
 trade_goods = sulphur
 life_rating = 40

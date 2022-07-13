@@ -1,5 +1,6 @@
-owner = BRZ
-controller = BRZ
+owner = FRA
+controller = FRA
 add_core = BRZ
+colonial = 2
 trade_goods = fish
 life_rating = 35

@@ -1,5 +1,6 @@
-owner = CRT
-controller = CRT
+owner = ENG
+controller = ENG
+colonial = 2
 add_core = CRT
 add_core = ARC
 trade_goods = cattle

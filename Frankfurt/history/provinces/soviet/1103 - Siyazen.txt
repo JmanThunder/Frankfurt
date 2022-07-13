@@ -1,5 +1,6 @@
-owner = DAG
-controller = DAG
+owner = ZND
+controller = ZND
+add_core = ZND
 add_core = AZB
 add_core = DAG
 trade_goods = fruit

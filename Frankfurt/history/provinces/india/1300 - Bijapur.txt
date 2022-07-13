@@ -1,5 +1,6 @@
-owner = EIC
-controller = EIC
+owner = MAR
+controller = MAR
+add_core = MAR
 add_core = HND
 add_core = MAH
 trade_goods = fruit

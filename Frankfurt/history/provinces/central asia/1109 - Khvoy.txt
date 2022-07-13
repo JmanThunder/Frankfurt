@@ -1,5 +1,6 @@
-owner = PER
-controller = PER
+owner = ZND
+controller = ZND
+add_core = ZND
 add_core = AZB
 add_core = KDS
 add_core = PER

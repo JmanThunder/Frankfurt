@@ -1,5 +1,6 @@
-owner = CRT
-controller = CRT
+owner = ENG
+controller = ENG
+colonial = 2
 add_core = CRTadd_core = ARC
 trade_goods = cattle
 life_rating = 311861.1.1 = { 	owner = ARG	controller = ARG	add_core = ARG	remove_core = CRT	remove_core = ARC}

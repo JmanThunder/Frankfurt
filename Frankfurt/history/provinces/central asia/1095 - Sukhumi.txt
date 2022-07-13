@@ -1,5 +1,6 @@
-owner = ABK
-controller = ABK
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = ABK
 add_core = CIR
 add_core = GEO

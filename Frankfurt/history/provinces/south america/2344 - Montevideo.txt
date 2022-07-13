@@ -1,5 +1,6 @@
-owner = URU
-controller = URU
+owner = ENG
+controller = ENG
+colonial = 2
 add_core = URU
 trade_goods = cattle
 life_rating = 38

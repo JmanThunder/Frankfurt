@@ -1,5 +1,6 @@
-owner = MIG
-controller = MIG
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = GEO
 add_core = MIG
 trade_goods = fruit

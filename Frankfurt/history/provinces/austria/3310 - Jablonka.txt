@@ -1,14 +1,6 @@
-owner = AUS
-
-controller = AUS
-
-add_core = POL
-
-add_core = SLV
-
-add_core = HUN
-add_core = CZH
-
+owner = ULA
+controller = ULA
+add_core = ULA
 trade_goods = grain
 
 life_rating = 35

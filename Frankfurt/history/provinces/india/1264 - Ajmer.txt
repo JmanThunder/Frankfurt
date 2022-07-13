@@ -1,5 +1,6 @@
-owner = EIC
-controller = EIC
+owner = MAR
+controller = MAR
+add_core = MAR
 add_core = JAI
 add_core = MEW
 add_core = HND

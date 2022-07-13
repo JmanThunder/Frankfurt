@@ -1,5 +1,6 @@
-owner = ENT
-controller = ENT
+owner = ENG
+controller = ENG
+colonial = 2
 add_core = ENT
 add_core = ARC
 trade_goods = cattle

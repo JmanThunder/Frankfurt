@@ -1,5 +1,7 @@
-owner = EGY
-controller = EGY
+owner = HAR
+
+controller = HAR
+
 add_core = AWS
 add_core = TIG
 add_core = ETH

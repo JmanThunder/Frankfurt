@@ -1,5 +1,6 @@
-owner = TCA
-controller = TCA
+owner = ZND
+controller = ZND
+add_core = ZND
 add_core = ARM
 add_core = AZB
 add_core = TCA

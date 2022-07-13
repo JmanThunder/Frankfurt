@@ -1,1 +1,4 @@
-owner = TCAcontroller = TCAadd_core = AZBadd_core = TCAtrade_goods = grainlife_rating = 35
+owner = ZND
+controller = ZND
+add_core = ZND
+add_core = AZBadd_core = TCAtrade_goods = grainlife_rating = 35
